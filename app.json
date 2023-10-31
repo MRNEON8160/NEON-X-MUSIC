@@ -1,7 +1,7 @@
 {
     "name": "Telethon Music Bot",
     "description": "Music allow you to stream music trought the telegram voice chat feature Based on Telethon.",
-    "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
+    "keywords": ["NEON", "Neon-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
     "repository": "https://github.com/ITZ-ZAID/Telethon-Music",
   "stack": "container",
     "env": {
@@ -12,20 +12,20 @@
         "SUPPORT": {
             "description": "Fill there your group username else leave",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "THESUKOONLYRIC"
         },
         "CHANNEL": {
             "description": "Fill there your Channel username else leave",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "THESUKOONLYRIC"
         },
         "BOT_USERNAME": {
             "description": "Fill there your bot username",
             "required": false,
-            "value": "Zaid2_Robot"
+            "value": "NEON X MUSIC"
         },
         "ASSISTANT_ID": {
-            "description": "Go To @Zaid2_Robot Pm & Type /id",
+            "description": "Go To @THESUKOONLYRIC Pm & Type /id",
             "required": false,
             "value": "1234567890"
         },
